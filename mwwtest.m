@@ -1,4 +1,4 @@
-% function STATS=mwwtest(x1,x2)
+function STATS=mwwtest(x1,x2)
 % Mann-Whitney-Wilcoxon non parametric test for two unpaired groups.
 % This file execute the non parametric Mann-Whitney-Wilcoxon test to evaluate the
 % difference between unpaired samples. If the number of combinations is less than
